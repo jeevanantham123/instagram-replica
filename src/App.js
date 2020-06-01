@@ -34,7 +34,7 @@ class Logi extends React.Component {
     return this.state.email.length > 0 && this.state.password.length > 6;
   }
   redirect() {
-    history.push("/home");
+    history.push("/instagram-replica/home/");
   }
 
   render() {

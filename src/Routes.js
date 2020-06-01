@@ -9,8 +9,8 @@ render(){
     return(
         <Router history={history}>
                 <Switch>
-                    <Route  path="/" exact component={App} /> 
-                    <Route path="/home"  component={Homepage} /> 
+                    <Route  path="/instagram-replica/" exact component={App} /> 
+                    <Route path="/instagram-replica/home/"  component={Homepage} /> 
                 </Switch>
         </Router>
     )

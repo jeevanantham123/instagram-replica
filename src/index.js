@@ -5,9 +5,10 @@ import Routes from './Routes';
 import * as serviceWorker from './serviceWorker';
 
 
+
 ReactDOM.render(
-  
-    <Routes/>
+  <Routes/>
+
   ,
   document.getElementById('root')
 );

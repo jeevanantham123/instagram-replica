@@ -48,20 +48,20 @@ class Content extends React.Component {
     if (this.objs[e].liked === false) this.objs[e].liked = true;
     else this.objs[e].liked = false;
 
-    history.push("/home");
+    history.push("/instagram-replica/home/");
   }
   handlesave(e) {
     if (this.objs[e].saved === false) this.objs[e].saved = true;
     else this.objs[e].saved = false;
 
-    history.push("/home");
+    history.push("/instagram-replica/home/");
   }
 
   handlefollow(e) {
     if (this.objs[e].followed === false) this.objs[e].followed = true;
     else this.objs[e].followed = false;
 
-    history.push("/home");
+    history.push("/instagram-replica/home/");
   }
   showoption() {
     document.getElementById("options").style.display = "block";
@@ -80,9 +80,7 @@ class Content extends React.Component {
         <div>
           <div className="story-show">
             {objs.map((obj) => (
-              <a href="/home">
                 <img className="ico" src={obj.ig} alt="" />
-              </a>
             ))}
           </div>
           <div className="side-show">
