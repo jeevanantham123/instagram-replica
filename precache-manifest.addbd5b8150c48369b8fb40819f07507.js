@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "131178b442f399f7c7eb0744132af76c",
+    "revision": "a7445f8b25a54bbe2e18cedc6a504d19",
     "url": "/instagram-replica/index.html"
   },
   {
-    "revision": "af9a138394558c00bbad",
+    "revision": "00918ef2a2ce2b0135ab",
     "url": "/instagram-replica/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "2983d61b2b587d79a5b8",
+    "revision": "5eacfe19b30a388dba85",
     "url": "/instagram-replica/static/css/main.3ed569fe.chunk.css"
   },
   {
-    "revision": "af9a138394558c00bbad",
-    "url": "/instagram-replica/static/js/2.0f4e1e32.chunk.js"
+    "revision": "00918ef2a2ce2b0135ab",
+    "url": "/instagram-replica/static/js/2.3538abd4.chunk.js"
   },
   {
     "revision": "be6629bd7ab7e127b5d76ac590c4478e",
-    "url": "/instagram-replica/static/js/2.0f4e1e32.chunk.js.LICENSE.txt"
+    "url": "/instagram-replica/static/js/2.3538abd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2983d61b2b587d79a5b8",
-    "url": "/instagram-replica/static/js/main.30188593.chunk.js"
+    "revision": "5eacfe19b30a388dba85",
+    "url": "/instagram-replica/static/js/main.f313cf97.chunk.js"
   },
   {
     "revision": "725c69e87852817bd177",
